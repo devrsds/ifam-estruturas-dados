@@ -21,9 +21,9 @@ document.writeln("<b><br>Após remover o final:</br></b>",copas)
     break;
     case"5":
 copas.length()
-document.writeln("<b><br>Após Tamanho:</br></b>",copas)
     break;
     default:
     alert("<br>Opção Invalida.</br>")
 }
+document.writeln("<b><br>Após Tamanho:</br></b>",copas)
 }while(quantidade!==0)
