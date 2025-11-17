@@ -1,0 +1,5 @@
+let idade= parseInt(prompt("Digite sua idade?"))
+if (idade >=18)
+    alert("Parabéns Você pode dirigir.")
+else (idade <=17)
+    alert("Você não vai passar por conta de ser menor de idade.")
